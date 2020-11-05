@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-cart-app/static/css/main.623c9e99.chunk.css",
+    "main.css": "/react-cart-app/static/css/main.9b71f17f.chunk.css",
     "main.js": "/react-cart-app/static/js/main.04355abb.chunk.js",
     "main.js.map": "/react-cart-app/static/js/main.04355abb.chunk.js.map",
     "runtime-main.js": "/react-cart-app/static/js/runtime-main.3a4b3a72.js",
@@ -8,13 +8,14 @@
     "static/js/2.bec67db6.chunk.js": "/react-cart-app/static/js/2.bec67db6.chunk.js",
     "static/js/2.bec67db6.chunk.js.map": "/react-cart-app/static/js/2.bec67db6.chunk.js.map",
     "index.html": "/react-cart-app/index.html",
-    "static/css/main.623c9e99.chunk.css.map": "/react-cart-app/static/css/main.623c9e99.chunk.css.map",
-    "static/js/2.bec67db6.chunk.js.LICENSE.txt": "/react-cart-app/static/js/2.bec67db6.chunk.js.LICENSE.txt"
+    "static/css/main.9b71f17f.chunk.css.map": "/react-cart-app/static/css/main.9b71f17f.chunk.css.map",
+    "static/js/2.bec67db6.chunk.js.LICENSE.txt": "/react-cart-app/static/js/2.bec67db6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-cart-app/static/media/mexican-street-food-fresh-delisious-tacos-ingredients-63791797.0cf73baf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3a4b3a72.js",
     "static/js/2.bec67db6.chunk.js",
-    "static/css/main.623c9e99.chunk.css",
+    "static/css/main.9b71f17f.chunk.css",
     "static/js/main.04355abb.chunk.js"
   ]
 }
